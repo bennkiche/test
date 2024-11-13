@@ -1,0 +1,46 @@
+{
+  "labs": [
+    {
+      "id": "1",
+      "test": "Fhg",
+      "sample": "Blood",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGONViH8IDPehfkvCR0ysdcKPCTeDq4f2B0A&s",
+      "price": 4000
+    },
+    {
+      "id": "2",
+      "test": "Hpylori",
+      "sample": "Stool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWuXS4I9b0n6M31M3v8gz8XOok1kJQIsNYQ&s",
+      "price": 2000
+    },
+    {
+      "id": "3",
+      "test": "Sat",
+      "sample": "Stool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzpomcNTzs_gS0HWeOILpty9zVpc9r0M-Uw&s",
+      "price": 5000
+    },
+    {
+      "id": "5",
+      "test": "Lfts",
+      "sample": "Serum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIG0m7p8h-oeeyFB_eQpWE9Y5H4vbTKs-xLg&s",
+      "price": 4000
+    },
+    {
+      "id": "6",
+      "test": "Uecs",
+      "sample": "Serum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzPdGE_DLs1P7xxdiJV7opEOAcvt2StlBQ&s",
+      "price": 3000
+    },
+    {
+      "id": "7",
+      "test": "Vdrl",
+      "sample": "Blood",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8A2K7IKJWJkF0W-EluAGNJMkdHmGrhvT5w&s",
+      "price": 1000
+    }
+  ]
+}
