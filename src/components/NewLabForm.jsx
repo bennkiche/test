@@ -25,7 +25,7 @@ function NewLabForm({ onAddLab }) {
       price: parseFloat(formData.price)
     };
 
-    fetch("http://localhost:3000/labs", {
+    fetch("https://phase-2-deploy.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
