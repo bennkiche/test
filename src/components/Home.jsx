@@ -9,7 +9,7 @@ function Home() {
 
  
   useEffect(() => {
-    fetch("http://localhost:3000/labs")
+    fetch("https://phase-2-deploy.onrender.com")
       .then((response) => response.json())
       .then((data) => setLabs(data))
       .catch((error) => console.error("Error fetching labs:", error));
