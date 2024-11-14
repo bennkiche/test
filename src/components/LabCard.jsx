@@ -4,8 +4,8 @@ function LabCard({ lab, onDeleteLab, onUpdatePrice }) {
   const [outOfStock, setOutOfStock] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
   const [formData, setFormData] = useState({
-    make: lab.test,
-    model: lab.sample,
+    test: lab.test,
+    sample: lab.sample,
     price: lab.price,
     image: lab.image
   });
