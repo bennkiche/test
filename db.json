@@ -30,10 +30,10 @@
     },
     {
       "id": "6",
-      "test": "Uecs",
-      "sample": "Serum",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzPdGE_DLs1P7xxdiJV7opEOAcvt2StlBQ&s",
-      "price": 3000
+      "test": "Urea",
+      "sample": "Blood",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSyVsrFGenVDrNMw-vP9a4uOD5cEpmb1Lcg&s",
+      "price": 4000
     },
     {
       "id": "7",
