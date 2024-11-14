@@ -15,7 +15,7 @@ function LabCard({ lab, onDeleteLab, onUpdatePrice }) {
   }
 
   function handleDelete() {
-    fetch(`http://localhost:3000/labs/${lab.id}`, {
+    fetch(`https://phase-2-deploy.onrender.com/${lab.id}`, {
       method: "DELETE"
     }).then(() => onDeleteLab(lab.id));
   }
@@ -35,7 +35,7 @@ function LabCard({ lab, onDeleteLab, onUpdatePrice }) {
 
   function handleFormSubmit(e) {
     e.preventDefault(); 
-    fetch(`http://localhost:3000/labs/${lab.id}`, {
+    fetch(`https://phase-2-deploy.onrender.com/${lab.id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json"
