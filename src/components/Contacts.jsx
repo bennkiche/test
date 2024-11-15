@@ -5,7 +5,7 @@ function Contacts() {
         <>
             <h1>Contact Us</h1>
             <ul className="contacts">
-                <a href="tel:0111489908">0111489908</a>
+                <a href="tel:0111489908">Tel</a>
                 <a 
                     href="https://www.facebook.com/profile.php?id=100080886662937" 
                     target="_blank" 
